@@ -23,6 +23,7 @@ class Window(QWidget):
         self.label.setFont(QFont('Times New Roman', 15))
 
     def clicked_btn(self):
+        pass
 
 
 
